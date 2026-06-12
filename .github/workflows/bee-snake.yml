@@ -34,7 +34,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/beeify.mjs dist/snake.svg assets/bee.svg
+      - run: |
+          # Platane/snk runs as root (Docker) → fix perms before rewriting the file
+          sudo chmod -R a+rwX dist
+          node scripts/beeify.mjs dist/snake.svg assets/bee.svg
 
       # 3) Publie le résultat sur la branche "output"
       - name: Push to output branch
