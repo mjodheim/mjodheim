@@ -16,6 +16,17 @@
 
 </div>
 
+<!-- ===================== SHARED: BEE SNAKE ===================== -->
+## 🐝 The honey trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg" alt="A bee eating my GitHub contributions and leaving a honey trail"/>
+
+<sub>Build with purpose · Ship it · Learn from production 🍯</sub>
+
+</div>
+
 <!-- ========================================================= -->
 <!-- =====================  ENGLISH  ========================== -->
 <!-- ========================================================= -->
@@ -109,16 +120,5 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=mjodheim&theme=gruvbox&no-frame=true&column=7&margin-w=8" alt="trophies"/>
-
-</div>
-
-<!-- ===================== SHARED: BEE SNAKE ===================== -->
-## 🐝 The honey trail
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg" alt="A bee eating my GitHub contributions and leaving a honey trail"/>
-
-<sub>Build with purpose · Ship it · Learn from production 🍯</sub>
 
 </div>
