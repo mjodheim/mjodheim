@@ -108,7 +108,7 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mjodheim&theme=gruvbox&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjodheim&bg_color=1b1300&color=ffe9a8&line=e0a800&point=FFC300&area=true&area_color=5c4400&title_color=FFC300&hide_border=true" alt="activity graph"/>
 
 </div>
 
