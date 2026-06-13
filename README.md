@@ -27,7 +27,7 @@
 name: Anthony Mets
 role: Full Stack .NET developer in training @ Technofuturtic
 also: Craft mead maker — Mjödheim 🍯
-currently_building: BrewTrack — a brewery ERP (.NET 10 + Next.js + Supabase)
+currently_building: BrewTrack — a brewery ERP (.NET 10 + Angular + PostgreSQL)
 learning: OOP, Domain-Driven Design, clean architecture
 philosophy: Build real things, ship them, learn from production.
 ```
@@ -41,7 +41,7 @@ philosophy: Build real things, ship them, learn from production.
 
 | Project | What it is |
 |---|---|
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | Full ERP for breweries — .NET 10 backend, Next.js front, Supabase. Solo-first, multi-tenant ready. |
+| **[BrewTrack](https://brewtrack.mjodheim.be)** | Full ERP for breweries — .NET 10 API, Angular front, PostgreSQL. Solo-first, multi-tenant ready. |
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions to the World of Warcraft UI addon (Lua) — bug fixes for the Midnight 12.x patch. |
 | **[Learning](https://github.com/mjodheim/Learning)** | My Full Stack .NET training ground @ Technofuturtic. |
 
@@ -56,7 +56,7 @@ philosophy: Build real things, ship them, learn from production.
 nom: Anthony Mets
 poste: Développeur Full Stack .NET en formation @ Technofuturtic
 aussi: Hydromellier artisanal — Mjödheim 🍯
-projet_en_cours: BrewTrack — un ERP brassicole (.NET 10 + Next.js + Supabase)
+projet_en_cours: BrewTrack — un ERP brassicole (.NET 10 + Angular + PostgreSQL)
 apprentissage: POO, Domain-Driven Design, architecture propre
 philosophie: Construire du concret, le livrer, apprendre de la prod.
 ```
@@ -70,7 +70,7 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 
 | Projet | Description |
 |---|---|
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | ERP complet pour brasseries — back .NET 10, front Next.js, Supabase. Solo d'abord, prêt pour le multi-tenant. |
+| **[BrewTrack](https://brewtrack.mjodheim.be)** | ERP complet pour brasseries — API .NET 10, front Angular, PostgreSQL. Solo d'abord, prêt pour le multi-tenant. |
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions à l'addon d'interface World of Warcraft (Lua) — correctifs pour le patch Midnight 12.x. |
 | **[Learning](https://github.com/mjodheim/Learning)** | Mon terrain d'entraînement Full Stack .NET @ Technofuturtic. |
 
