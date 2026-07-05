@@ -3,8 +3,8 @@
 
 <a href="https://mjodheim.be">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;.NET+%26+Angular+developer+in+training;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack%2C+a+private+SaaS+for+beverage+makers"
-    alt="Anthony Mets — .NET & Angular dev, craft mead maker"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Java%2FSpring+Boot+%26+Angular+developer+in+training;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack%2C+a+private+SaaS+for+beverage+makers"
+    alt="Anthony Mets — Java, Spring Boot & Angular dev in training, craft mead maker"
   />
 </a>
 
@@ -24,16 +24,16 @@
 
 ```yaml
 name: Anthony Mets
-role: Full Stack .NET developer in training @ Technofuturtic
+role: Java / Spring Boot / Angular developer in training
 also: Craft mead maker — Mjödheim 🍯
 currently_building: BrewTrack — a private SaaS for beverage producers
-learning: OOP, Domain-Driven Design, clean architecture
+learning: Java, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, testing, Docker/Kubernetes
 philosophy: Build real things, ship them, learn from production.
 ```
 
 - 🍯 I run **Mjödheim**, a craft mead label — and I'm turning that world into software.
 - 🏗️ My main project is **BrewTrack**, a private production-management app for breweries and beverage makers.
-- 🌱 Training as a **Full Stack .NET dev**, focused on doing things *cleanly*, not just making them work.
+- 🌱 Entering a **Java / Spring Boot / Angular** track, with a strong focus on SQL, REST APIs, testing, Git, UML, Scrum, Docker and Kubernetes.
 - 🐝 The bee further down eats my GitHub contributions and leaves a honey trail.
 
 ### 🚀 Featured projects
@@ -41,8 +41,9 @@ philosophy: Build real things, ship them, learn from production.
 | Project | What it is |
 |---|---|
 | **[BrewTrack](https://brewtrack.mjodheim.be)** | Private SaaS for brewery operations: production, inventory, recipes and day-to-day tracking. |
-| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions to the World of Warcraft UI addon (Lua) — bug fixes for the Midnight 12.x patch. |
-| **[Learning](https://github.com/mjodheim/Learning)** | My Full Stack .NET training ground @ Technofuturtic. |
+| **Java / Angular training** | Upcoming back-end and front-end track: algorithms, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Scrum, Docker and Kubernetes. |
+| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Open-source Lua contributions: runtime bug fixes, taint handling and performance work on a large existing codebase. |
+| **[Learning](https://github.com/mjodheim/Learning)** | Personal training ground for exercises, experiments and course work. |
 
 <!-- ========================================================= -->
 <!-- =====================  FRANÇAIS  ======================== -->
@@ -53,16 +54,16 @@ philosophy: Build real things, ship them, learn from production.
 
 ```yaml
 nom: Anthony Mets
-poste: Développeur Full Stack .NET en formation @ Technofuturtic
+poste: Développeur Java / Spring Boot / Angular en formation
 aussi: Hydromellier artisanal — Mjödheim 🍯
 projet_en_cours: BrewTrack — un SaaS privé pour producteurs de boissons
-apprentissage: POO, Domain-Driven Design, architecture propre
+apprentissage: Java, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Docker/Kubernetes
 philosophie: Construire du concret, le livrer, apprendre de la prod.
 ```
 
 - 🍯 Je gère **Mjödheim**, une marque d'hydromel artisanal — et je transforme cet univers en logiciel.
 - 🏗️ Mon projet principal est **BrewTrack**, une application privée de gestion de production pour brasseries et producteurs de boissons.
-- 🌱 En formation **Full Stack .NET**, l'objectif : faire les choses *proprement*, pas juste « que ça marche ».
+- 🌱 J'entre en formation **Java / Spring Boot / Angular**, avec un socle SQL, REST, tests, Git, UML, Scrum, Docker et Kubernetes.
 - 🐝 L'abeille plus bas mange mes contributions GitHub et laisse une traînée de miel.
 
 ### 🚀 Projets en avant
@@ -70,8 +71,9 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 | Projet | Description |
 |---|---|
 | **[BrewTrack](https://brewtrack.mjodheim.be)** | SaaS privé pour opérations brassicoles : production, stock, recettes et suivi quotidien. |
-| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions à l'addon d'interface World of Warcraft (Lua) — correctifs pour le patch Midnight 12.x. |
-| **[Learning](https://github.com/mjodheim/Learning)** | Mon terrain d'entraînement Full Stack .NET @ Technofuturtic. |
+| **Formation Java / Angular** | Parcours back-end et front-end : algorithmique, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Scrum, Docker et Kubernetes. |
+| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions open source en Lua : corrections runtime, gestion du taint et performance dans un gros codebase existant. |
+| **[Learning](https://github.com/mjodheim/Learning)** | Terrain personnel pour exercices, expérimentations et travaux de formation. |
 
 <!-- ===================== SHARED: STACK ===================== -->
 ## 🛠️ Tech stack
@@ -79,6 +81,8 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -89,7 +93,7 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,nextjs,ts,js,supabase,postgres,docker,git,linux,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,js,postgres,docker,kubernetes,git,linux,vscode&theme=dark" alt="skills"/>
 
 </div>
 
