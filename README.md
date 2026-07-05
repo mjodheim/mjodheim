@@ -41,9 +41,8 @@ philosophy: Build real things, ship them, learn from production.
 | Project | What it is |
 |---|---|
 | **[BrewTrack](https://brewtrack.mjodheim.be)** | Private SaaS for brewery operations: production, inventory, recipes and day-to-day tracking. |
-| **Java / Angular training** | Upcoming back-end and front-end track: algorithms, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Scrum, Docker and Kubernetes. |
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Open-source Lua contributions: runtime bug fixes, taint handling and performance work on a large existing codebase. |
-| **[Learning](https://github.com/mjodheim/Learning)** | Personal training ground for exercises, experiments and course work. |
+| **[Learning](https://github.com/mjodheim/Learning)** | Dedicated repo for what I learn and build during training. |
 
 <!-- ========================================================= -->
 <!-- =====================  FRANÇAIS  ======================== -->
@@ -71,9 +70,8 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 | Projet | Description |
 |---|---|
 | **[BrewTrack](https://brewtrack.mjodheim.be)** | SaaS privé pour opérations brassicoles : production, stock, recettes et suivi quotidien. |
-| **Formation Java / Angular** | Parcours back-end et front-end : algorithmique, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Scrum, Docker et Kubernetes. |
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions open source en Lua : corrections runtime, gestion du taint et performance dans un gros codebase existant. |
-| **[Learning](https://github.com/mjodheim/Learning)** | Terrain personnel pour exercices, expérimentations et travaux de formation. |
+| **[Learning](https://github.com/mjodheim/Learning)** | Dépôt dédié à ce que j’apprends et construis pendant la formation. |
 
 <!-- ===================== SHARED: STACK ===================== -->
 ## 🛠️ Tech stack
