@@ -3,8 +3,8 @@
 
 <a href="https://mjodheim.be">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Java+%2F+Spring+Boot+%2F+Angular;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack%2C+SaaS+for+makers"
-    alt="Anthony Mets — Java / Spring Boot / Angular, craft mead maker"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Full-stack+dev%3A+.NET%2C+Angular+%26+more;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack+from+scratch"
+    alt="Anthony Mets — Full-stack dev: .NET, Angular     alt="Anthony Mets — Java / Spring Boot / Angular, craft mead maker" more, craft mead maker"
   />
 </a>
 
