@@ -89,7 +89,7 @@ philosophy: Build real things, ship them, learn from production.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,dotnet,cs,spring,angular,ts,postgres,docker,git,linux,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,angular,ts,postgres,docker,git,vscode&theme=dark" alt="skills"/>
 
 </div>
 
