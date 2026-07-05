@@ -76,6 +76,8 @@ philosophy: Build real things, ship them, learn from production.
 
 <div align="center">
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -86,7 +88,7 @@ philosophy: Build real things, ship them, learn from production.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,docker,git,linux,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=java,dotnet,cs,spring,angular,ts,postgres,docker,git,linux,vscode&theme=dark" alt="skills"/>
 
 </div>
 
