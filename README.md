@@ -100,11 +100,6 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mjodheim&show_icons=true&hide_border=true&title_color=FFC300&icon_color=e0a800&text_color=ffe9a8&bg_color=1b1300" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjodheim&layout=compact&hide_border=true&title_color=FFC300&text_color=ffe9a8&bg_color=1b1300" alt="top languages"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjodheim&hide_border=true&background=1b1300&stroke=5c4400&ring=FFC300&fire=e0a800&currStreakLabel=FFC300&sideLabels=ffe9a8&dates=a37b00&currStreakNum=ffe9a8&sideNums=ffe9a8" alt="streak"/>
 
 <br/>
