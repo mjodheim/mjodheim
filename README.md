@@ -11,6 +11,7 @@
 [![Website](https://img.shields.io/badge/Website-mjodheim.be-FFC300?style=for-the-badge&logo=firefox&logoColor=1b1300&labelColor=3a2e00)](https://mjodheim.be)
 [![Location](https://img.shields.io/badge/Belgium-CET%2FCEST-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
 
+</div>
 ## 🇫🇷 Français
 
 ### 🐝 À propos
@@ -39,7 +40,6 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 <!-- ===================== SHARED: STACK ===================== -->
 **🇬🇧 [English](#-english)  ·  🇫🇷 [Français](#-français)**
 
-</div>
 
 <!-- ========================================================= -->
 <!-- =====================  ENGLISH  ========================== -->
