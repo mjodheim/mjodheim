@@ -33,8 +33,7 @@ philosophy: Build real things, ship them, learn from production.
 
 - 🍯 I run **Mjödheim**, a craft mead label — and I'm turning that world into software.
 - 🏗️ My main project is **BrewTrack**, a private production-management app for breweries and beverage makers.
-- 🌱 Entering a **Java / Spring Boot / Angular** track, with a strong focus on SQL, REST APIs, testing, Git, UML, Scrum, Docker and Kubernetes.
-- 🐝 The bee further down eats my GitHub contributions and leaves a honey trail.
+- 🌱 Training in **Java / Spring Boot / Angular**, with a strong focus on SQL, REST APIs, testing, Git, UML, Scrum, Docker and Kubernetes.
 
 ### 🚀 Featured projects
 
@@ -62,8 +61,7 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 
 - 🍯 Je gère **Mjödheim**, une marque d'hydromel artisanal — et je transforme cet univers en logiciel.
 - 🏗️ Mon projet principal est **BrewTrack**, une application privée de gestion de production pour brasseries et producteurs de boissons.
-- 🌱 J'entre en formation **Java / Spring Boot / Angular**, avec un socle SQL, REST, tests, Git, UML, Scrum, Docker et Kubernetes.
-- 🐝 L'abeille plus bas mange mes contributions GitHub et laisse une traînée de miel.
+- 🌱 Je suis en formation **Java / Spring Boot / Angular**, avec un socle SQL, REST, tests, Git, UML, Scrum, Docker et Kubernetes.
 
 ### 🚀 Projets en avant
 
