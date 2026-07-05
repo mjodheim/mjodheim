@@ -3,14 +3,13 @@
 
 <a href="https://mjodheim.be">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;.NET+%26+Angular+developer+in+training;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack%2C+an+ERP+for+breweries"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;.NET+%26+Angular+developer+in+training;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack%2C+a+private+SaaS+for+beverage+makers"
     alt="Anthony Mets — .NET & Angular dev, craft mead maker"
   />
 </a>
 
 [![Website](https://img.shields.io/badge/Website-mjodheim.be-FFC300?style=for-the-badge&logo=firefox&logoColor=1b1300&labelColor=3a2e00)](https://mjodheim.be)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony_Mets-e0a800?style=for-the-badge&logo=linkedin&logoColor=1b1300&labelColor=3a2e00)](https://www.linkedin.com/)
-[![Location](https://img.shields.io/badge/Beaumont,_Belgium-UTC+2-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
+[![Location](https://img.shields.io/badge/Belgium-CET%2FCEST-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
 
 **🇬🇧 [English](#-english)  ·  🇫🇷 [Français](#-français)**
 
@@ -27,13 +26,13 @@
 name: Anthony Mets
 role: Full Stack .NET developer in training @ Technofuturtic
 also: Craft mead maker — Mjödheim 🍯
-currently_building: BrewTrack — a brewery ERP (.NET 10 + Angular + PostgreSQL)
+currently_building: BrewTrack — a private SaaS for beverage producers
 learning: OOP, Domain-Driven Design, clean architecture
 philosophy: Build real things, ship them, learn from production.
 ```
 
 - 🍯 I run **Mjödheim**, a craft mead label — and I'm turning that world into software.
-- 🏗️ My main project is **BrewTrack**, a full ERP for breweries (inventory, recipes, batches, multi-tenant).
+- 🏗️ My main project is **BrewTrack**, a private production-management app for breweries and beverage makers.
 - 🌱 Training as a **Full Stack .NET dev**, focused on doing things *cleanly*, not just making them work.
 - 🐝 The bee further down eats my GitHub contributions and leaves a honey trail.
 
@@ -41,7 +40,7 @@ philosophy: Build real things, ship them, learn from production.
 
 | Project | What it is |
 |---|---|
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | Full ERP for breweries — .NET 10 API, Angular front, PostgreSQL. Solo-first, multi-tenant ready. |
+| **[BrewTrack](https://brewtrack.mjodheim.be)** | Private SaaS for brewery operations: production, inventory, recipes and day-to-day tracking. |
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions to the World of Warcraft UI addon (Lua) — bug fixes for the Midnight 12.x patch. |
 | **[Learning](https://github.com/mjodheim/Learning)** | My Full Stack .NET training ground @ Technofuturtic. |
 
@@ -56,13 +55,13 @@ philosophy: Build real things, ship them, learn from production.
 nom: Anthony Mets
 poste: Développeur Full Stack .NET en formation @ Technofuturtic
 aussi: Hydromellier artisanal — Mjödheim 🍯
-projet_en_cours: BrewTrack — un ERP brassicole (.NET 10 + Angular + PostgreSQL)
+projet_en_cours: BrewTrack — un SaaS privé pour producteurs de boissons
 apprentissage: POO, Domain-Driven Design, architecture propre
 philosophie: Construire du concret, le livrer, apprendre de la prod.
 ```
 
 - 🍯 Je gère **Mjödheim**, une marque d'hydromel artisanal — et je transforme cet univers en logiciel.
-- 🏗️ Mon projet principal est **BrewTrack**, un ERP complet pour brasseries (stock, recettes, lots, multi-tenant).
+- 🏗️ Mon projet principal est **BrewTrack**, une application privée de gestion de production pour brasseries et producteurs de boissons.
 - 🌱 En formation **Full Stack .NET**, l'objectif : faire les choses *proprement*, pas juste « que ça marche ».
 - 🐝 L'abeille plus bas mange mes contributions GitHub et laisse une traînée de miel.
 
@@ -70,7 +69,7 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 
 | Projet | Description |
 |---|---|
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | ERP complet pour brasseries — API .NET 10, front Angular, PostgreSQL. Solo d'abord, prêt pour le multi-tenant. |
+| **[BrewTrack](https://brewtrack.mjodheim.be)** | SaaS privé pour opérations brassicoles : production, stock, recettes et suivi quotidien. |
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions à l'addon d'interface World of Warcraft (Lua) — correctifs pour le patch Midnight 12.x. |
 | **[Learning](https://github.com/mjodheim/Learning)** | Mon terrain d'entraînement Full Stack .NET @ Technofuturtic. |
 
