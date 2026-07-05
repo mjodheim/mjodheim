@@ -3,14 +3,40 @@
 
 <a href="https://mjodheim.be">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Full-stack+dev%3A+.NET%2C+Angular+%26+more;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack+from+scratch"
-    alt="Anthony Mets — Full-stack dev: .NET, Angular     alt="Anthony Mets — Java / Spring Boot / Angular, craft mead maker" more, craft mead maker"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Full-stack+dev+building+things+%F0%9F%90%9D;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack+%F0%9F%8D%AF"
+    alt="Anthony Mets — Full-stack dev building things, craft mead maker"
   />
 </a>
 
 [![Website](https://img.shields.io/badge/Website-mjodheim.be-FFC300?style=for-the-badge&logo=firefox&logoColor=1b1300&labelColor=3a2e00)](https://mjodheim.be)
 [![Location](https://img.shields.io/badge/Belgium-CET%2FCEST-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
 
+## 🇫🇷 Français
+
+### 🐝 À propos
+
+```yaml
+nom: Anthony Mets
+poste: Développeur Java / Spring Boot / Angular en formation
+aussi: Hydromellier artisanal — Mjödheim 🍯
+projet_en_cours: BrewTrack — un SaaS privé pour producteurs de boissons
+apprentissage: Java, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Docker/Kubernetes
+philosophie: Construire du concret, le livrer, apprendre de la prod.
+```
+
+- 🍯 Je gère **Mjödheim**, une marque d'hydromel artisanal — et je transforme cet univers en logiciel.
+- 🏗️ Mon projet principal est **BrewTrack**, une application privée de gestion de production pour brasseries et producteurs de boissons.
+- 🌱 Je suis en formation **Java / Spring Boot / Angular**, avec un socle SQL, REST, tests, Git, UML, Scrum, Docker et Kubernetes.
+
+### 🚀 Projets en avant
+
+| Projet | Description |
+|---|---|
+| **[BrewTrack](https://brewtrack.mjodheim.be)** | SaaS privé pour opérations brassicoles : production, stock, recettes et suivi quotidien. |
+| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions open source en Lua : corrections runtime, gestion du taint et performance dans un gros codebase existant. |
+| **[Learning](https://github.com/mjodheim/Learning)** | Dépôt dédié à ce que j’apprends et construis pendant la formation. |
+
+<!-- ===================== SHARED: STACK ===================== -->
 **🇬🇧 [English](#-english)  ·  🇫🇷 [Français](#-français)**
 
 </div>
@@ -46,32 +72,6 @@ philosophy: Build real things, ship them, learn from production.
 <!-- ========================================================= -->
 <!-- =====================  FRANÇAIS  ======================== -->
 <!-- ========================================================= -->
-## 🇫🇷 Français
-
-### 🐝 À propos
-
-```yaml
-nom: Anthony Mets
-poste: Développeur Java / Spring Boot / Angular en formation
-aussi: Hydromellier artisanal — Mjödheim 🍯
-projet_en_cours: BrewTrack — un SaaS privé pour producteurs de boissons
-apprentissage: Java, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Docker/Kubernetes
-philosophie: Construire du concret, le livrer, apprendre de la prod.
-```
-
-- 🍯 Je gère **Mjödheim**, une marque d'hydromel artisanal — et je transforme cet univers en logiciel.
-- 🏗️ Mon projet principal est **BrewTrack**, une application privée de gestion de production pour brasseries et producteurs de boissons.
-- 🌱 Je suis en formation **Java / Spring Boot / Angular**, avec un socle SQL, REST, tests, Git, UML, Scrum, Docker et Kubernetes.
-
-### 🚀 Projets en avant
-
-| Projet | Description |
-|---|---|
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | SaaS privé pour opérations brassicoles : production, stock, recettes et suivi quotidien. |
-| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions open source en Lua : corrections runtime, gestion du taint et performance dans un gros codebase existant. |
-| **[Learning](https://github.com/mjodheim/Learning)** | Dépôt dédié à ce que j’apprends et construis pendant la formation. |
-
-<!-- ===================== SHARED: STACK ===================== -->
 ## 🛠️ Tech stack
 
 <div align="center">
