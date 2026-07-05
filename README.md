@@ -3,7 +3,7 @@
 
 <a href="https://mjodheim.be">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Full-stack+dev+building+things+%F0%9F%90%9D;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack+%F0%9F%8D%AF"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Full-stack+dev+building+things+%E2%9A%A1;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack+%F0%9F%9A%80"
     alt="Anthony Mets — Full-stack dev building things, craft mead maker"
   />
 </a>
