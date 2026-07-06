@@ -92,11 +92,11 @@ philosophy: Build real things, ship them, learn from production.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mjodheim&hide_border=true&background=1b1300&stroke=5c4400&ring=FFC300&fire=e0a800&currStreakLabel=FFC300&sideLabels=ffe9a8&dates=a37b00&currStreakNum=ffe9a8&sideNums=ffe9a8" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mjodheim&amp;hide_border=true&amp;background=1b1300&amp;stroke=5c4400&amp;ring=FFC300&amp;fire=e0a800&amp;currStreakLabel=FFC300&amp;sideLabels=ffe9a8&amp;dates=a37b00&amp;currStreakNum=ffe9a8&amp;sideNums=ffe9a8" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjodheim&custom_title=Mjodheim%27s%20Contribution%20Graph&bg_color=1b1300&color=ffe9a8&line=e0a800&point=FFC300&area=true&area_color=5c4400&title_color=FFC300&hide_border=true" alt="Mjodheim's Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjodheim&amp;custom_title=Mjodheim%27s%20Contribution%20Graph&amp;bg_color=1b1300&amp;color=ffe9a8&amp;line=e0a800&amp;point=FFC300&amp;area=true&amp;area_color=5c4400&amp;title_color=FFC300&amp;hide_border=true" alt="Mjodheim's Contribution Graph"/>
 
 </div>
 
