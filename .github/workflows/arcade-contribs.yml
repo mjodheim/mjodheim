@@ -24,7 +24,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: mjodheim
-          games: 'pacman,breakout'
+          games: 'galaga,puzzle-bobble,bomberman,minesweeper'
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
