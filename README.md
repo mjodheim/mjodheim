@@ -100,4 +100,3 @@ philosophy: Build real things, ship them, learn from production.
 
 </div>
 
->
