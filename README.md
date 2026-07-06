@@ -10,7 +10,9 @@
 [![Website](https://img.shields.io/badge/Website-mjodheim.be-FFC300?style=for-the-badge&logo=firefox&logoColor=1b1300&labelColor=3a2e00)](https://mjodheim.be)
 [![Location](https://img.shields.io/badge/Belgium-CET%2FCEST-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
 
-</div>
+
+
+<img src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg" alt="A bee eating my GitHub contributions and leaving a honey trail"/>
 
 ## 🇫🇷 Français
 
@@ -96,12 +98,4 @@ philosophy: Build real things, ship them, learn from production.
 
 </div>
 
-## 🐝 The honey trail
-
-<div align=center>
-
-<img src=https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg alt=A bee eating my GitHub contributions and leaving a honey trail/>
-
-<sub>Build with purpose · Ship it · Learn from production 🍯</sub>
-
-</div>>
+>
