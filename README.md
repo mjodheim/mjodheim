@@ -92,7 +92,7 @@ philosophy: Build real things, ship them, learn from production.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mjodheim&amp;hide_border=true&amp;background=1b1300&amp;stroke=5c4400&amp;ring=FFC300&amp;fire=e0a800&amp;currStreakLabel=FFC300&amp;sideLabels=ffe9a8&amp;dates=a37b00&amp;currStreakNum=ffe9a8&amp;sideNums=ffe9a8" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=mjodheim&amp;hide_border=true&amp;background=1b1300&amp;stroke=5c4400&amp;ring=FFC300&amp;fire=e0a800&amp;currStreakLabel=FFC300&amp;sideLabels=ffe9a8&amp;dates=a37b00&amp;currStreakNum=ffe9a8&amp;sideNums=ffe9a8" alt="streak"/>
 
 <br/>
 
