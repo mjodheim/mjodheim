@@ -12,7 +12,7 @@
 [![Location](https://img.shields.io/badge/Belgium-CET%2FCEST-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
 
 </div>
-## 🇫🇷 Français
+🇫🇷 Français
 
 ### 🐝 À propos
 
@@ -38,7 +38,6 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 | **[Learning](https://github.com/mjodheim/Learning)** | Dépôt dédié à ce que j’apprends et construis pendant la formation. |
 
 <!-- ===================== SHARED: STACK ===================== -->
-**🇬🇧 [English](#-english)  ·  🇫🇷 [Français](#-français)**
 
 
 <!-- ========================================================= -->
