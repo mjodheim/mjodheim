@@ -11,6 +11,7 @@
 [![Location](https://img.shields.io/badge/Belgium-CET%2FCEST-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
 
 </div>
+
 ## 🇫🇷 Français
 
 ### 🐝 À propos
