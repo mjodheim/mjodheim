@@ -1,4 +1,3 @@
-<!-- ===================== BANNER ===================== -->
 <div align="center">
 
 <a href="https://mjodheim.be">
@@ -37,12 +36,8 @@ philosophie: Construire du concret, le livrer, apprendre de la prod.
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions open source en Lua : corrections runtime, gestion du taint et performance dans un gros codebase existant. |
 | **[Learning](https://github.com/mjodheim/Learning)** | Dépôt dédié à ce que j’apprends et construis pendant la formation. |
 
-<!-- ===================== SHARED: STACK ===================== -->
 
 
-<!-- ========================================================= -->
-<!-- =====================  ENGLISH  ========================== -->
-<!-- ========================================================= -->
 ## 🇬🇧 English
 
 ### 🐝 About me
@@ -68,9 +63,6 @@ philosophy: Build real things, ship them, learn from production.
 | **[ElvUI](https://github.com/mjodheim/ElvUI)** | Open-source Lua contributions: runtime bug fixes, taint handling and performance work on a large existing codebase. |
 | **[Learning](https://github.com/mjodheim/Learning)** | Dedicated repo for what I learn and build during training. |
 
-<!-- ========================================================= -->
-<!-- =====================  FRANÇAIS  ======================== -->
-<!-- ========================================================= -->
 ## 🛠️ Tech stack
 
 <div align="center">
@@ -91,7 +83,6 @@ philosophy: Build real things, ship them, learn from production.
 
 </div>
 
-<!-- ===================== SHARED: STATS ===================== -->
 ## 📊 GitHub in numbers
 
 <div align="center">
@@ -104,7 +95,6 @@ philosophy: Build real things, ship them, learn from production.
 
 </div>
 
-<!-- ===================== SHARED: BEE SNAKE ===================== -->
 ## 🐝 The honey trail
 
 <div align="center">
