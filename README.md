@@ -96,40 +96,12 @@ philosophy: Build real things, ship them, learn from production.
 
 </div>
 
-## 🕹️ The honey trail
+## 🐝 The honey trail
 
-<div align="center">
+<div align=center>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/galaga-contribution-graph.svg">
-  <img alt="Galaga on my GitHub contributions" src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/galaga-contribution-graph.svg">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="Puzzle Bobble on my GitHub contributions" src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/puzzle-bobble-contribution-graph.svg">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/bomberman-contribution-graph.svg">
-  <img alt="Bomberman on my GitHub contributions" src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/bomberman-contribution-graph.svg">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/minesweeper-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/minesweeper-contribution-graph.svg">
-  <img alt="Minesweeper on my GitHub contributions" src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/minesweeper-contribution-graph.svg">
-</picture>
+<img src=https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg alt=A bee eating my GitHub contributions and leaving a honey trail/>
 
 <sub>Build with purpose · Ship it · Learn from production 🍯</sub>
 
-</div>
+</div>>
