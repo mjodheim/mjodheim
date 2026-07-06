@@ -96,11 +96,23 @@ philosophy: Build real things, ship them, learn from production.
 
 </div>
 
-## 🐝 The honey trail
+## 🕹️ The honey trail
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg" alt="A bee eating my GitHub contributions and leaving a honey trail"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjodheim/mjodheim/output/breakout-contribution-graph.svg">
+  <img alt="Breakout on my GitHub contributions" src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/breakout-contribution-graph.svg">
+</picture>
 
 <sub>Build with purpose · Ship it · Learn from production 🍯</sub>
 
