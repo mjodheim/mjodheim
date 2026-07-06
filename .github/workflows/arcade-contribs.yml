@@ -21,7 +21,7 @@ jobs:
 
     steps:
       - name: Generate contribution graph SVGs
-        uses: mjodheim/pacman-contribution-graph@main
+        uses: mjodheim/pacman-contribution-graph@v5.3.1-mjodheim
         with:
           github_user_name: mjodheim
           games: 'galaga,puzzle-bobble,bomberman,minesweeper'
