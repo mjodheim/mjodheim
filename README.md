@@ -1,102 +1,88 @@
 <div align="center">
 
-<a href="https://mjodheim.be">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFC300&center=true&vCenter=true&width=620&lines=Anthony+Mets+%F0%9F%90%9D;Full-stack+dev+building+things+%E2%9A%A1;Craft+mead+maker+%40+Mj%C3%B6dheim+%F0%9F%8D%AF;Building+BrewTrack+%F0%9F%9A%80"
-    alt="Anthony Mets — Full-stack dev building things, craft mead maker"
-  />
-</a>
+# Anthony Mets
 
-[![Website](https://img.shields.io/badge/Website-mjodheim.be-FFC300?style=for-the-badge&logo=firefox&logoColor=1b1300&labelColor=3a2e00)](https://mjodheim.be)
-[![Location](https://img.shields.io/badge/Belgium-CET%2FCEST-a37b00?style=for-the-badge&logo=googlemaps&logoColor=1b1300&labelColor=3a2e00)](#)
+### Développeur Full Stack en devenir · Full Stack Developer in training
+
+Je transforme ma curiosité en applications concrètes, avec du code, de l'IA et beaucoup d'envie d'apprendre.
+
+[![Learning](https://img.shields.io/badge/Parcours-Learning-FFC300?style=for-the-badge&logo=github&logoColor=111)](https://github.com/mjodheim/Learning)
+[![Website](https://img.shields.io/badge/Univers-mjodheim.be-FFC300?style=for-the-badge&logo=firefox&logoColor=111)](https://mjodheim.be)
+[![Belgium](https://img.shields.io/badge/Belgique-CET%2FCEST-3a2e00?style=for-the-badge&logo=googlemaps&logoColor=FFC300)](#)
 
 </div>
 
-
-
-<img src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg" alt="A bee eating my GitHub contributions and leaving a honey trail"/>
+<img src="https://raw.githubusercontent.com/mjodheim/mjodheim/output/snake.svg" alt="Une abeille parcourt mes contributions GitHub en laissant une trace de miel" />
 
 ## 🇫🇷 Français
 
-### 🐝 À propos
+Je m'appelle **Anthony**. J'apprends à devenir développeur Full Stack en construisant pour de vrai : d'abord avec **C# et .NET 10**, **T-SQL**, les API REST et **Angular**, puis avec **Java**, **Spring Boot** et une approche orientée cybersécurité.
 
-```yaml
-nom: Anthony Mets
-poste: Développeur Java / Spring Boot / Angular en formation
-aussi: Hydromellier artisanal — Mjödheim 🍯
-projet_en_cours: BrewTrack — un SaaS privé pour producteurs de boissons
-apprentissage: Java, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, tests, Docker/Kubernetes
-philosophie: Construire du concret, le livrer, apprendre de la prod.
-```
+Le développement est autant mon futur métier que ma passion. J'utilise l'IA comme un partenaire de travail pour explorer des idées, prototyper plus vite, challenger mes choix techniques et automatiser le répétitif — sans lui déléguer la compréhension ni les décisions.
 
-- 🍯 Je gère **Mjödheim**, une marque d'hydromel artisanal — et je transforme cet univers en logiciel.
-- 🏗️ Mon projet principal est **BrewTrack**, une application privée de gestion de production pour brasseries et producteurs de boissons.
-- 🌱 Je suis en formation **Java / Spring Boot / Angular**, avec un socle SQL, REST, tests, Git, UML, Scrum, Docker et Kubernetes.
+### Aujourd'hui
 
-### 🚀 Projets en avant
+- 🎓 Parcours Full Stack chez **Technofutur TIC** : transition de l'écosystème .NET vers Java/Spring Boot.
+- 🧱 Intérêt particulier pour les architectures en couches, les API REST, les données et les interfaces utiles.
+- 🔐 Objectif : intégrer sécurité, tests et qualité dès la conception.
+- 🧠 Méthode : apprendre, construire, relire, corriger et documenter.
 
-| Projet | Description |
-|---|---|
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | SaaS privé pour opérations brassicoles : production, stock, recettes et suivi quotidien. |
-| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Contributions open source en Lua : corrections runtime, gestion du taint et performance dans un gros codebase existant. |
-| **[Learning](https://github.com/mjodheim/Learning)** | Dépôt dédié à ce que j’apprends et construis pendant la formation. |
+### Ce que je construis
 
+| Projet | Statut | Description |
+|---|---:|---|
+| **[Learning](https://github.com/mjodheim/Learning)** | Public | Mon parcours technique : C#, .NET 10, T-SQL, accès aux données, REST, JavaScript et Angular, bientôt Java/Spring Boot. |
+| **BrewTrack** | Privé | Une application métier autour de la production, des recettes, des stocks et de la traçabilité des boissons. |
+| **Mira** | Privé | Un projet personnel qui me permet d'explorer de nouveaux usages et de nouvelles architectures. |
+| **Reforge AI** | Privé | Une expérimentation centrée sur l'IA appliquée au développement et aux outils créatifs. |
 
+Ces projets privés ne montrent pas encore leur code, mais ils racontent une partie importante de ma démarche : transformer mes idées en produits et apprendre au contact de problèmes réels.
+
+---
 
 ## 🇬🇧 English
 
-### 🐝 About me
+I'm **Anthony**, an aspiring Full Stack developer learning by building real things: first with **C# and .NET 10**, **T-SQL**, REST APIs, and **Angular**, and now moving into **Java**, **Spring Boot**, and cybersecurity-oriented development.
 
-```yaml
-name: Anthony Mets
-role: Java / Spring Boot / Angular developer in training
-also: Craft mead maker — Mjödheim 🍯
-currently_building: BrewTrack — a private SaaS for beverage producers
-learning: Java, SQL, JDBC, Hibernate, Spring Boot, REST, Angular, testing, Docker/Kubernetes
-philosophy: Build real things, ship them, learn from production.
-```
+Software development is both my future career and a genuine passion. I use AI as a working partner to explore ideas, prototype faster, challenge technical decisions, and automate repetitive work—while keeping understanding and engineering judgement firmly in my hands.
 
-- 🍯 I run **Mjödheim**, a craft mead label — and I'm turning that world into software.
-- 🏗️ My main project is **BrewTrack**, a private production-management app for breweries and beverage makers.
-- 🌱 Training in **Java / Spring Boot / Angular**, with a strong focus on SQL, REST APIs, testing, Git, UML, Scrum, Docker and Kubernetes.
+### Today
 
-### 🚀 Featured projects
+- 🎓 Full Stack training at **Technofutur TIC**, transitioning from the .NET ecosystem to Java/Spring Boot.
+- 🧱 Especially interested in layered architecture, REST APIs, data, and useful interfaces.
+- 🔐 Aiming to make security, testing, and quality part of the design from the start.
+- 🧠 My approach: learn, build, review, fix, and document.
 
-| Project | What it is |
-|---|---|
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | Private SaaS for brewery operations: production, inventory, recipes and day-to-day tracking. |
-| **[ElvUI](https://github.com/mjodheim/ElvUI)** | Open-source Lua contributions: runtime bug fixes, taint handling and performance work on a large existing codebase. |
-| **[Learning](https://github.com/mjodheim/Learning)** | Dedicated repo for what I learn and build during training. |
+### What I build
 
-## 🛠️ Tech stack
+| Project | Status | Description |
+|---|---:|---|
+| **[Learning](https://github.com/mjodheim/Learning)** | Public | My technical journey through C#, .NET 10, T-SQL, data access, REST, JavaScript, and Angular—soon Java/Spring Boot. |
+| **BrewTrack** | Private | A business application for beverage production, recipes, inventory, and traceability. |
+| **Mira** | Private | A personal project for exploring new use cases and software architectures. |
+| **Reforge AI** | Private | An experiment focused on AI-assisted development and creative tooling. |
 
-<div align="center">
+The code for these private projects is not public yet, but they remain an important part of my journey: turning ideas into products and learning from real-world problems.
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,angular,ts,postgres,docker,git,vscode&theme=dark" alt="skills"/>
-
-</div>
-
-## 📊 GitHub in numbers
+## Outils & technologies · Tools & technologies
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mjodheim&amp;hide_border=true&amp;background=1b1300&amp;stroke=5c4400&amp;ring=FFC300&amp;fire=e0a800&amp;currStreakLabel=FFC300&amp;sideLabels=ffe9a8&amp;dates=a37b00&amp;currStreakNum=ffe9a8&amp;sideNums=ffe9a8" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjodheim&amp;custom_title=Mjodheim%27s%20Contribution%20Graph&amp;bg_color=1b1300&amp;color=ffe9a8&amp;line=e0a800&amp;point=FFC300&amp;area=true&amp;area_color=5c4400&amp;title_color=FFC300&amp;hide_border=true" alt="Mjodheim's Contribution Graph"/>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-en_cours-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-prochaine_étape-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-à_venir-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
+<div align="center">
+
+> Construire pour apprendre. Apprendre pour mieux construire.
+> Build to learn. Learn to build better.
+
+</div>
