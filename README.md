@@ -26,7 +26,6 @@ J'utilise aussi l'IA de manière intensive pour explorer, automatiser, prototype
 |---|---|
 | **[Developer Lab](https://github.com/mjodheim/Developer-lab)** | Projets multi-langages réalisés comme exercices pratiques. L'IA peut servir de professeur, fournir des explications, des indices et des code reviews, mais l'implémentation est réalisée manuellement par moi. |
 | **[Learning](https://github.com/mjodheim/Learning)** | Mon parcours de formation : algorithmique, POO, SQL, accès aux données, API REST, architecture en couches, JavaScript, Angular et Java. |
-| **ChessAPI / ChessClient** | Projet Full Stack intégré à `Learning`, avec règles métier, repositories, services, DTO, API REST et client Angular. |
 
 **Developer Lab est la référence principale pour évaluer mon niveau de programmation personnel.** Chaque exercice y documente les concepts travaillés, les choix effectués et, lorsque c'est pertinent, la nature de l'assistance reçue.
 
@@ -69,7 +68,6 @@ I also use AI extensively for exploration, automation, prototyping and more ambi
 |---|---|
 | **[Developer Lab](https://github.com/mjodheim/Developer-lab)** | Multi-language hands-on projects. AI may be used as a tutor for explanations, hints and code review, while the implementation is written manually by me. |
 | **[Learning](https://github.com/mjodheim/Learning)** | My training journey through algorithms, OOP, SQL, data access, REST APIs, layered architecture, JavaScript, Angular and Java. |
-| **ChessAPI / ChessClient** | A Full Stack project inside `Learning`, with business rules, repositories, services, DTOs, REST API and Angular client. |
 
 **Developer Lab is the primary repository for evaluating my personal programming skills.** Each exercise documents the concepts involved, the decisions made and, where relevant, the type of assistance received.
 
