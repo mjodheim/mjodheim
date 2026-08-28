@@ -2,13 +2,13 @@
 
 # Anthony Mets
 
-### Développeur Full Stack en devenir · Full Stack Developer in training
+### Développeur Full Stack en formation · Full Stack Developer in training
 
-Je transforme ma curiosité en applications concrètes, avec du code, de l'IA et beaucoup d'envie d'apprendre.
+J'apprends en construisant : du code écrit et compris par moi-même, puis des projets plus ambitieux où l'IA devient un outil d'ingénierie.
 
-[![Learning](https://img.shields.io/badge/Parcours-Learning-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=1D4ED8)](https://github.com/mjodheim/Learning)
-[![Website](https://img.shields.io/badge/Univers-mjodheim.be-7C3AED?style=for-the-badge&logo=firefox&logoColor=white&labelColor=6D28D9)](https://mjodheim.be)
-[![Belgium](https://img.shields.io/badge/Belgique-CET%2FCEST-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=D97706)](#)
+[![Developer Lab](https://img.shields.io/badge/Code_personnel-Developer_Lab-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjodheim/Developer-lab)
+[![Learning](https://img.shields.io/badge/Parcours-Learning-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjodheim/Learning)
+[![Website](https://img.shields.io/badge/Univers-mjodheim.be-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://mjodheim.be)
 
 </div>
 
@@ -16,53 +16,87 @@ Je transforme ma curiosité en applications concrètes, avec du code, de l'IA et
 
 ## 🇫🇷 Français
 
-Je m'appelle **Anthony**. J'apprends à devenir développeur Full Stack en construisant pour de vrai : d'abord avec **C# et .NET 10**, **T-SQL**, les API REST et **Angular**, puis avec **Java**, **Spring Boot** et une approche orientée cybersécurité.
+Je m'appelle **Anthony**. Je me forme au développement Full Stack en travaillant d'abord les fondamentaux avec **C#/.NET**, **SQL**, **JavaScript/TypeScript**, **Angular** et désormais **Java/Spring Boot**.
 
-Le développement est autant mon futur métier que ma passion. J'utilise l'IA comme un partenaire de travail pour explorer des idées, prototyper plus vite, challenger mes choix techniques et automatiser le répétitif — sans lui déléguer la compréhension ni les décisions.
+J'utilise aussi l'IA de manière intensive pour explorer, automatiser, prototyper et mener des projets plus ambitieux. Pour qu'un recruteur puisse distinguer clairement mes compétences de programmation de mon utilisation de l'IA, mes dépôts sont volontairement présentés selon trois catégories.
+
+### 🧑‍💻 1. Code que je sais écrire et expliquer moi-même
+
+| Projet | Ce qu'il démontre |
+|---|---|
+| **[Developer Lab](https://github.com/mjodheim/Developer-lab)** | Projets multi-langages réalisés comme exercices pratiques. L'IA peut servir de professeur, fournir des explications, des indices et des code reviews, mais l'implémentation est réalisée manuellement par moi. |
+| **[Learning](https://github.com/mjodheim/Learning)** | Mon parcours de formation : algorithmique, POO, SQL, accès aux données, API REST, architecture en couches, JavaScript, Angular et Java. |
+| **ChessAPI / ChessClient** | Projet Full Stack intégré à `Learning`, avec règles métier, repositories, services, DTO, API REST et client Angular. |
+
+**Developer Lab est la référence principale pour évaluer mon niveau de programmation personnel.** Chaque exercice y documente les concepts travaillés, les choix effectués et, lorsque c'est pertinent, la nature de l'assistance reçue.
+
+### 🤖 2. Ingénierie augmentée par IA
+
+J'utilise les modèles et agents IA comme des outils de développement : exploration d'architectures, revue, automatisation, prototypage, orchestration et accélération de tâches répétitives.
+
+Ces projets démontrent donc surtout ma capacité à **concevoir, diriger, vérifier et intégrer** du travail réalisé avec des outils IA. Ils ne doivent pas être lus comme une affirmation que chaque ligne de code a été écrite manuellement par moi.
+
+- **BrewTrack** — SaaS privé et en production pour producteurs de boissons artisanales, construit autour de .NET, Angular et PostgreSQL.
+- **Mira** — plateforme privée d'agents IA, de missions, d'outils et de supervision auto-hébergée.
+
+### 🧪 3. Recherche et systèmes agentiques
+
+**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** est un programme public de recherche expérimentale sur des lignées logicielles adaptatives, avec protocoles, expériences reproductibles, contrôles et résultats positifs comme négatifs.
+
+**[AutoEmpiric](https://github.com/mjodheim/auto-empiric)** explore l'orchestration et la validation empirique d'agents autonomes dans une architecture polyglotte.
+
+Ces dépôts représentent mon travail le plus expérimental et sont volontairement séparés de la preuve de mes compétences de programmation manuelle.
 
 ### Aujourd'hui
 
-- 🎓 Parcours Full Stack chez **Technofutur TIC** : transition de l'écosystème .NET vers Java/Spring Boot.
-- 🧱 Intérêt particulier pour les architectures en couches, les API REST, les données et les interfaces utiles.
-- 🔐 Objectif : intégrer sécurité, tests et qualité dès la conception.
-- 🧠 Méthode : apprendre, construire, relire, corriger et documenter.
-
-### Ce que je construis
-
-| Projet | Statut | Description |
-|---|---:|---|
-| **[Learning](https://github.com/mjodheim/Learning)** | Public | Mon parcours technique : C#, .NET 10, T-SQL, accès aux données, REST, JavaScript et Angular, bientôt Java/Spring Boot. |
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | Privé · en production | Un SaaS multi-tenant pour producteurs de boissons artisanales : recettes, fermentation, stocks, ventes, traçabilité, facturation et équipe — en .NET 10, Angular et PostgreSQL, avec Méli comme assistante IA. |
-| **[Mira](https://github.com/Mira-Mjodheim)** | Privé · auto-hébergé | Ma plateforme d'agents IA : mémoire sémantique, missions avec garde-fous, outils, sandbox et supervision du VPS — construite avec .NET 10, Python, PostgreSQL/pgvector, NATS et Docker. |
-| **Reforge AI** | Privé · prototype | Un coach Android anti-abandon, hors ligne d'abord, qui adapte l'effort à la fatigue, au temps et à la récupération. Kotlin/Compose côté mobile, Java 21/Spring Boot côté API ; l'IA explique, le moteur déterministe décide. |
-
-Leur code n'est pas public, mais **BrewTrack est accessible en ligne** et montre un cas d'usage réel. Ensemble, ces projets racontent une partie importante de ma démarche : transformer mes idées en produits et apprendre au contact de problèmes concrets.
+- 🎓 Formation Full Stack chez **Technofutur TIC**, avec transition de l'écosystème .NET vers Java/Spring Boot.
+- 🧱 Intérêt particulier pour les architectures en couches, les API REST, les données et les systèmes bien structurés.
+- 🧪 Progression active sur les tests automatisés, Docker, CI/CD et les pratiques de production.
+- 🔐 Sensibilité à la sécurité, aux invariants métier et à la qualité du code.
+- 🧠 Méthode : comprendre, construire, tester, relire, corriger et documenter.
 
 ---
 
 ## 🇬🇧 English
 
-I'm **Anthony**, an aspiring Full Stack developer learning by building real things: first with **C# and .NET 10**, **T-SQL**, REST APIs, and **Angular**, and now moving into **Java**, **Spring Boot**, and cybersecurity-oriented development.
+I'm **Anthony**, a Full Stack developer in training. I first build my foundations with **C#/.NET**, **SQL**, **JavaScript/TypeScript**, **Angular**, and now **Java/Spring Boot**.
 
-Software development is both my future career and a genuine passion. I use AI as a working partner to explore ideas, prototype faster, challenge technical decisions, and automate repetitive work—while keeping understanding and engineering judgement firmly in my hands.
+I also use AI extensively for exploration, automation, prototyping and more ambitious engineering work. To make authorship and skill assessment clear, I deliberately separate my repositories into three categories.
+
+### 🧑‍💻 1. Code I can write and explain myself
+
+| Project | What it demonstrates |
+|---|---|
+| **[Developer Lab](https://github.com/mjodheim/Developer-lab)** | Multi-language hands-on projects. AI may be used as a tutor for explanations, hints and code review, while the implementation is written manually by me. |
+| **[Learning](https://github.com/mjodheim/Learning)** | My training journey through algorithms, OOP, SQL, data access, REST APIs, layered architecture, JavaScript, Angular and Java. |
+| **ChessAPI / ChessClient** | A Full Stack project inside `Learning`, with business rules, repositories, services, DTOs, REST API and Angular client. |
+
+**Developer Lab is the primary repository for evaluating my personal programming skills.** Each exercise documents the concepts involved, the decisions made and, where relevant, the type of assistance received.
+
+### 🤖 2. AI-augmented engineering
+
+I use AI models and agents as engineering tools for architecture exploration, review, automation, prototyping, orchestration and repetitive work.
+
+These projects demonstrate my ability to **design, direct, verify and integrate** AI-assisted engineering work. They should not be interpreted as a claim that every line was written manually by me.
+
+- **BrewTrack** — private production SaaS for craft beverage producers, built around .NET, Angular and PostgreSQL.
+- **Mira** — private self-hosted platform for AI agents, missions, tools and infrastructure supervision.
+
+### 🧪 3. Research and agentic systems
+
+**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** is a public experimental research program on adaptive software lineages, with reproducible protocols, controls and preserved positive and negative results.
+
+**[AutoEmpiric](https://github.com/mjodheim/auto-empiric)** explores orchestration and empirical validation for autonomous agents in a polyglot architecture.
+
+These repositories represent my most experimental work and are deliberately separated from evidence of my manually written programming skills.
 
 ### Today
 
-- 🎓 Full Stack training at **Technofutur TIC**, transitioning from the .NET ecosystem to Java/Spring Boot.
-- 🧱 Especially interested in layered architecture, REST APIs, data, and useful interfaces.
-- 🔐 Aiming to make security, testing, and quality part of the design from the start.
-- 🧠 My approach: learn, build, review, fix, and document.
-
-### What I build
-
-| Project | Status | Description |
-|---|---:|---|
-| **[Learning](https://github.com/mjodheim/Learning)** | Public | My technical journey through C#, .NET 10, T-SQL, data access, REST, JavaScript, and Angular—soon Java/Spring Boot. |
-| **[BrewTrack](https://brewtrack.mjodheim.be)** | Private · live | A multi-tenant SaaS for craft beverage producers, covering recipes, fermentation, inventory, sales, traceability, invoicing, and staff — built with .NET 10, Angular, PostgreSQL, and the Méli AI assistant. |
-| **[Mira](https://github.com/Mira-Mjodheim)** | Private · self-hosted | My AI-agent platform: semantic memory, guarded missions, tools, sandboxing, and VPS supervision — built with .NET 10, Python, PostgreSQL/pgvector, NATS, and Docker. |
-| **Reforge AI** | Private · prototype | An offline-first Android coach designed to prevent fitness drop-off by adapting effort to fatigue, available time, and recovery. Kotlin/Compose mobile app, Java 21/Spring Boot API; AI explains, deterministic rules decide. |
-
-Their source code is not public, but **BrewTrack is live** and demonstrates a real-world use case. Together, these projects remain an important part of my journey: turning ideas into products and learning from concrete problems.
+- 🎓 Full Stack training at **Technofutur TIC**, transitioning from .NET to Java/Spring Boot.
+- 🧱 Strong interest in layered architecture, REST APIs, data and well-structured systems.
+- 🧪 Actively progressing in automated testing, Docker, CI/CD and production practices.
+- 🔐 Interested in security, business invariants and code quality.
+- 🧠 Approach: understand, build, test, review, fix and document.
 
 ## Outils & technologies · Tools & technologies
 
@@ -76,7 +110,6 @@ Their source code is not public, but **BrewTrack is live** and demonstrates a re
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -85,7 +118,7 @@ Their source code is not public, but **BrewTrack is live** and demonstrates a re
 
 <div align="center">
 
-> Construire pour apprendre. Apprendre pour mieux construire.
+> Construire pour apprendre. Apprendre pour mieux construire.<br>
 > Build to learn. Learn to build better.
 
 </div>
