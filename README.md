@@ -4,9 +4,9 @@
 
 ### Développeur Full Stack en formation · Full Stack Developer in training
 
-J'apprends en construisant : du code écrit et compris par moi-même, puis des projets plus ambitieux où l'IA devient un outil d'ingénierie.
+J'apprends en construisant, en expérimentant et en essayant de comprendre ce qui se passe derrière les abstractions.
 
-[![Developer Lab](https://img.shields.io/badge/Code_personnel-Developer_Lab-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjodheim/Developer-lab)
+[![Developer Lab](https://img.shields.io/badge/Pratique-Developer_Lab-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjodheim/Developer-lab)
 [![Learning](https://img.shields.io/badge/Parcours-Learning-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjodheim/Learning)
 [![Website](https://img.shields.io/badge/Univers-mjodheim.be-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://mjodheim.be)
 
@@ -16,85 +16,89 @@ J'apprends en construisant : du code écrit et compris par moi-même, puis des p
 
 ## 🇫🇷 Français
 
-Je m'appelle **Anthony**. Je me forme au développement Full Stack en travaillant d'abord les fondamentaux avec **C#/.NET**, **SQL**, **JavaScript/TypeScript**, **Angular** et désormais **Java/Spring Boot**.
+Je m'appelle **Anthony** et je me forme au développement Full Stack. Mon parcours a commencé avec **C#/.NET**, SQL, l'accès aux données, ASP.NET Core et Angular, puis s'est poursuivi vers **Java**, PostgreSQL et l'écosystème Spring.
 
-J'utilise aussi l'IA de manière intensive pour explorer, automatiser, prototyper et mener des projets plus ambitieux. Pour qu'un recruteur puisse distinguer clairement mes compétences de programmation de mon utilisation de l'IA, mes dépôts sont volontairement présentés selon trois catégories.
+Je m'intéresse autant au code qu'aux problèmes qui apparaissent autour de lui : **architecture, sécurité, tests, données, automatisation, déploiement, observabilité et fonctionnement réel d'une application en production**.
 
-### 🧑‍💻 1. Code que je sais écrire et expliquer moi-même
+L'IA fait naturellement partie de ma manière d'explorer et de construire. Je l'utilise comme outil d'apprentissage, de revue, de prototypage, d'automatisation et d'ingénierie. Certains dépôts sont volontairement consacrés à la pratique manuelle, tandis que d'autres explorent ce qu'il devient possible de construire lorsque des modèles et des agents participent directement au processus.
 
-| Projet | Ce qu'il démontre |
-|---|---|
-| **[Developer Lab](https://github.com/mjodheim/Developer-lab)** | Projets multi-langages réalisés comme exercices pratiques. L'IA peut servir de professeur, fournir des explications, des indices et des code reviews, mais l'implémentation est réalisée manuellement par moi. |
-| **[Learning](https://github.com/mjodheim/Learning)** | Mon parcours de formation : algorithmique, POO, SQL, accès aux données, API REST, architecture en couches, JavaScript, Angular et Java. |
+### 🧑‍💻 Apprendre et pratiquer
 
-**Developer Lab est la référence principale pour évaluer mon niveau de programmation personnel.** Chaque exercice y documente les concepts travaillés, les choix effectués et, lorsque c'est pertinent, la nature de l'assistance reçue.
+**[Learning](https://github.com/mjodheim/Learning)** rassemble mon parcours de formation et mes exercices : algorithmique, programmation orientée objet, SQL, accès aux données, API REST, JavaScript, Angular, Java et progressivement Spring Boot, testing et Docker.
 
-### 🤖 2. Ingénierie augmentée par IA
+**[Developer Lab](https://github.com/mjodheim/Developer-lab)** est mon espace de pratique personnelle. J'y travaille des problèmes ciblés dans plusieurs langages en écrivant moi-même l'implémentation, avec l'IA limitée à un rôle de professeur, de reviewer ou de sparring-partner.
 
-J'utilise les modèles et agents IA comme des outils de développement : exploration d'architectures, revue, automatisation, prototypage, orchestration et accélération de tâches répétitives.
+L'objectif n'est pas d'accumuler des CRUD, mais d'aller progressivement vers des sujets où les choix comptent réellement : invariants métier, concurrence, transactions, idempotence, résilience, sécurité, tests, performances et architecture.
 
-Ces projets démontrent donc surtout ma capacité à **concevoir, diriger, vérifier et intégrer** du travail réalisé avec des outils IA. Ils ne doivent pas être lus comme une affirmation que chaque ligne de code a été écrite manuellement par moi.
+### 🤖 Construire avec l'IA
 
-- **BrewTrack** — SaaS privé et en production pour producteurs de boissons artisanales, construit autour de .NET, Angular et PostgreSQL.
-- **Mira** — plateforme privée d'agents IA, de missions, d'outils et de supervision auto-hébergée.
+J'utilise aussi les modèles et agents IA comme de véritables outils d'ingénierie : exploration d'architectures, génération contrôlée, revue, automatisation, orchestration et expérimentation.
 
-### 🧪 3. Recherche et systèmes agentiques
+- **BrewTrack** — SaaS privé pour producteurs de boissons artisanales, autour de .NET, Angular et PostgreSQL.
+- **Mira** — plateforme auto-hébergée d'agents IA, de missions, d'outils et de supervision.
 
-**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** est un programme public de recherche expérimentale sur des lignées logicielles adaptatives, avec protocoles, expériences reproductibles, contrôles et résultats positifs comme négatifs.
+Dans ces projets, l'intérêt n'est pas de prétendre que chaque ligne a été écrite manuellement, mais de travailler sur la **conception du système, les contraintes, l'intégration, la vérification et le comportement global**.
+
+### 🧪 Recherche et expérimentation
+
+**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** est un programme public de recherche expérimentale sur des lignées logicielles adaptatives, avec protocoles, contrôles, expériences reproductibles et conservation des résultats positifs comme négatifs.
 
 **[AutoEmpiric](https://github.com/mjodheim/auto-empiric)** explore l'orchestration et la validation empirique d'agents autonomes dans une architecture polyglotte.
 
-Ces dépôts représentent mon travail le plus expérimental et sont volontairement séparés de la preuve de mes compétences de programmation manuelle.
+Ces projets me permettent d'explorer des questions plus ouvertes autour de l'autonomie logicielle, de l'évaluation, de la causalité et de la place des agents IA dans l'ingénierie logicielle.
 
 ### Aujourd'hui
 
 - 🎓 Formation Full Stack chez **Technofutur TIC**, avec transition de l'écosystème .NET vers Java/Spring Boot.
-- 🧱 Intérêt particulier pour les architectures en couches, les API REST, les données et les systèmes bien structurés.
-- 🧪 Progression active sur les tests automatisés, Docker, CI/CD et les pratiques de production.
-- 🔐 Sensibilité à la sécurité, aux invariants métier et à la qualité du code.
-- 🧠 Méthode : comprendre, construire, tester, relire, corriger et documenter.
+- 🧱 Intérêt particulier pour l'architecture, les API, les données et les systèmes distribués ou modulaires.
+- 🧪 Progression sur les tests automatisés, Docker, CI/CD et les pratiques de production.
+- 🔐 Intérêt marqué pour la sécurité, les invariants métier et la fiabilité.
+- 🤖 Exploration continue de l'IA appliquée au développement et de l'orchestration d'agents.
+- 🧠 Méthode : comprendre, construire, tester, observer, corriger et documenter.
 
 ---
 
 ## 🇬🇧 English
 
-I'm **Anthony**, a Full Stack developer in training. I first build my foundations with **C#/.NET**, **SQL**, **JavaScript/TypeScript**, **Angular**, and now **Java/Spring Boot**.
+I'm **Anthony**, a Full Stack developer in training. My journey started with **C#/.NET**, SQL, data access, ASP.NET Core and Angular, and later moved towards **Java**, PostgreSQL and the Spring ecosystem.
 
-I also use AI extensively for exploration, automation, prototyping and more ambitious engineering work. To make authorship and skill assessment clear, I deliberately separate my repositories into three categories.
+I'm interested not only in writing code, but also in the problems surrounding it: **architecture, security, testing, data, automation, deployment, observability and how software behaves in production**.
 
-### 🧑‍💻 1. Code I can write and explain myself
+AI is naturally part of the way I explore and build. I use it for learning, review, prototyping, automation and engineering. Some repositories are deliberately focused on manual practice, while others explore what becomes possible when models and agents participate directly in the development process.
 
-| Project | What it demonstrates |
-|---|---|
-| **[Developer Lab](https://github.com/mjodheim/Developer-lab)** | Multi-language hands-on projects. AI may be used as a tutor for explanations, hints and code review, while the implementation is written manually by me. |
-| **[Learning](https://github.com/mjodheim/Learning)** | My training journey through algorithms, OOP, SQL, data access, REST APIs, layered architecture, JavaScript, Angular and Java. |
+### 🧑‍💻 Learning and practice
 
-**Developer Lab is the primary repository for evaluating my personal programming skills.** Each exercise documents the concepts involved, the decisions made and, where relevant, the type of assistance received.
+**[Learning](https://github.com/mjodheim/Learning)** contains my training journey and exercises: algorithms, object-oriented programming, SQL, data access, REST APIs, JavaScript, Angular, Java and progressively Spring Boot, testing and Docker.
 
-### 🤖 2. AI-augmented engineering
+**[Developer Lab](https://github.com/mjodheim/Developer-lab)** is my personal practice space. I work through focused problems in several languages while writing the implementation myself, with AI limited to the role of tutor, reviewer or sparring partner.
 
-I use AI models and agents as engineering tools for architecture exploration, review, automation, prototyping, orchestration and repetitive work.
+The goal is not to accumulate CRUD applications, but to progressively move towards problems where engineering decisions matter: business invariants, concurrency, transactions, idempotency, resilience, security, testing, performance and architecture.
 
-These projects demonstrate my ability to **design, direct, verify and integrate** AI-assisted engineering work. They should not be interpreted as a claim that every line was written manually by me.
+### 🤖 Building with AI
 
-- **BrewTrack** — private production SaaS for craft beverage producers, built around .NET, Angular and PostgreSQL.
-- **Mira** — private self-hosted platform for AI agents, missions, tools and infrastructure supervision.
+I also use AI models and agents as engineering tools for architecture exploration, controlled generation, review, automation, orchestration and experimentation.
 
-### 🧪 3. Research and agentic systems
+- **BrewTrack** — private SaaS for craft beverage producers, built around .NET, Angular and PostgreSQL.
+- **Mira** — self-hosted platform for AI agents, missions, tools and infrastructure supervision.
 
-**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** is a public experimental research program on adaptive software lineages, with reproducible protocols, controls and preserved positive and negative results.
+In these projects, the interesting part is not claiming that every line was written manually, but working on the **system design, constraints, integration, verification and overall behaviour**.
+
+### 🧪 Research and experimentation
+
+**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** is a public experimental research program on adaptive software lineages, with protocols, controls, reproducible experiments and preserved positive and negative results.
 
 **[AutoEmpiric](https://github.com/mjodheim/auto-empiric)** explores orchestration and empirical validation for autonomous agents in a polyglot architecture.
 
-These repositories represent my most experimental work and are deliberately separated from evidence of my manually written programming skills.
+These projects let me explore more open-ended questions around software autonomy, evaluation, causality and the role of AI agents in software engineering.
 
 ### Today
 
 - 🎓 Full Stack training at **Technofutur TIC**, transitioning from .NET to Java/Spring Boot.
-- 🧱 Strong interest in layered architecture, REST APIs, data and well-structured systems.
-- 🧪 Actively progressing in automated testing, Docker, CI/CD and production practices.
-- 🔐 Interested in security, business invariants and code quality.
-- 🧠 Approach: understand, build, test, review, fix and document.
+- 🧱 Strong interest in architecture, APIs, data and distributed or modular systems.
+- 🧪 Progressing in automated testing, Docker, CI/CD and production practices.
+- 🔐 Strong interest in security, business invariants and reliability.
+- 🤖 Continuously exploring AI-assisted development and agent orchestration.
+- 🧠 Approach: understand, build, test, observe, fix and document.
 
 ## Outils & technologies · Tools & technologies
 
