@@ -43,9 +43,7 @@ Dans ces projets, l'intérêt n'est pas de prétendre que chaque ligne a été �
 
 **[Mira Genesis](https://github.com/mjodheim/mira-genesis)** est un programme public de recherche expérimentale sur des lignées logicielles adaptatives, avec protocoles, contrôles, expériences reproductibles et conservation des résultats positifs comme négatifs.
 
-**[AutoEmpiric](https://github.com/mjodheim/auto-empiric)** explore l'orchestration et la validation empirique d'agents autonomes dans une architecture polyglotte.
-
-Ces projets me permettent d'explorer des questions plus ouvertes autour de l'autonomie logicielle, de l'évaluation, de la causalité et de la place des agents IA dans l'ingénierie logicielle.
+Ce projet me permet d'explorer des questions plus ouvertes autour de l'autonomie logicielle, de l'évaluation, de la causalité et de la place des agents IA dans l'ingénierie logicielle.
 
 ### Aujourd'hui
 
@@ -87,9 +85,7 @@ In these projects, the interesting part is not claiming that every line was writ
 
 **[Mira Genesis](https://github.com/mjodheim/mira-genesis)** is a public experimental research program on adaptive software lineages, with protocols, controls, reproducible experiments and preserved positive and negative results.
 
-**[AutoEmpiric](https://github.com/mjodheim/auto-empiric)** explores orchestration and empirical validation for autonomous agents in a polyglot architecture.
-
-These projects let me explore more open-ended questions around software autonomy, evaluation, causality and the role of AI agents in software engineering.
+This project let me explore more open-ended questions around software autonomy, evaluation, causality and the role of AI agents in software engineering.
 
 ### Today
 
