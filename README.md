@@ -20,38 +20,68 @@ Je m'appelle **Anthony** et je me forme au développement Full Stack. Mon parcou
 
 Je m'intéresse autant au code qu'aux problèmes qui apparaissent autour de lui : **architecture, sécurité, tests, données, automatisation, déploiement, observabilité et fonctionnement réel d'une application en production**.
 
-L'IA fait naturellement partie de ma manière d'explorer et de construire. Je l'utilise comme outil d'apprentissage, de revue, de prototypage, d'automatisation et d'ingénierie. Certains dépôts sont volontairement consacrés à la pratique manuelle, tandis que d'autres explorent ce qu'il devient possible de construire lorsque des modèles et des agents participent directement au processus.
+### 🧭 Une progression par projets
+
+Ma formation est structurée autour de projets qui montent progressivement en complexité : apprendre à construire un backend correctement, relier ensuite ce backend à un frontend, puis intégrer des problématiques plus avancées de données, d'IA et d'interopérabilité.
+
+#### 🧱 [Cellar](https://github.com/mjodheim/Cellar)
+
+Backend de gestion de cave, de stock et de commandes construit avec **Java, Spring Boot et Spring Modulith**.
+
+Le projet me sert à approfondir une architecture modulaire avec des frontières métier explicites et une approche Clean/hexagonale à l'intérieur des modules : catalogue, stock, commandes et identité. J'y travaille notamment la persistance PostgreSQL, Flyway, Spring Security, les JWT, les tests unitaires et d'intégration, Testcontainers, Docker et les pratiques CI/CD.
+
+L'objectif est de construire un backend **compréhensible, testable, traçable et évolutif**, plutôt qu'un simple CRUD.
+
+#### 🚗 TechnoCovoit
+
+Prochain projet de formation : une application de covoiturage qui prolongera le travail backend réalisé avec Cellar, puis ajoutera une véritable partie **frontend Angular**.
+
+L'objectif sera de travailler le parcours complet d'une fonctionnalité, du domaine et de l'API jusqu'à l'interface utilisateur, tout en conservant des responsabilités claires entre backend et frontend.
+
+> Le dépôt est initialisé ; l'implémentation arrivera progressivement au fil de la formation.
+
+#### 🌍 [Resilience](https://github.com/mjodheim/Resilience)
+
+Projet final de formation, pensé comme le cran suivant.
+
+**Resilience** sera une plateforme full-stack d'analyse de la résilience climatique d'un territoire ou d'un logement. Elle combinera **Spring Boot, Spring Modulith, une architecture Clean/hexagonale par module, Angular, PostgreSQL/PostGIS** et des données issues de sources externes afin d'explorer et comparer différents indicateurs climatiques et environnementaux.
+
+Le cœur métier restera **déterministe et indépendant de l'IA**. Une fois l'application classique stable, le projet ajoutera un **RAG**, une recherche vectorielle via **PGVector** et un **serveur MCP** exposant des outils climatiques structurés. Le LLM servira à orchestrer, contextualiser et expliquer des résultats sourcés, jamais à remplacer les règles métier ni la validation des données.
+
+L'objectif est d'explorer concrètement comment une application moderne peut intégrer l'IA sans lui abandonner sa source de vérité.
+
+### 🤖 Développement et intelligence artificielle
+
+L'IA fait désormais partie de mon environnement de développement et constitue également un domaine que j'explore pour lui-même.
+
+Je suis convaincu que son influence sur le métier de développeur va continuer à s'accélérer. Mon approche n'est donc pas de l'ignorer, mais d'apprendre à **évoluer avec ces outils aussi rapidement que possible**, à comprendre leurs possibilités comme leurs limites, et à les intégrer lorsqu'ils apportent une réelle valeur.
+
+Je les utilise pour apprendre, explorer des architectures, challenger des choix, automatiser certaines tâches, prototyper et expérimenter de nouvelles approches. Le développeur reste cependant responsable de ce qui est produit : **comprendre, concevoir, tester, vérifier, sécuriser et maintenir** restent essentiels.
 
 ### 🧑‍💻 Apprendre et pratiquer
 
-**[Learning](https://github.com/mjodheim/Learning)** rassemble mon parcours de formation et mes exercices : algorithmique, programmation orientée objet, SQL, accès aux données, API REST, JavaScript, Angular, Java et progressivement Spring Boot, testing et Docker.
+**[Learning](https://github.com/mjodheim/Learning)** rassemble mon parcours de formation et mes exercices : algorithmique, programmation orientée objet, SQL, accès aux données, API REST, JavaScript, Angular, Java, Spring Boot, testing et Docker.
 
 **[Developer Lab](https://github.com/mjodheim/Developer-lab)** est mon espace de pratique personnelle. J'y travaille des problèmes ciblés dans plusieurs langages en écrivant moi-même l'implémentation, avec l'IA limitée à un rôle de professeur, de reviewer ou de sparring-partner.
 
 L'objectif n'est pas d'accumuler des CRUD, mais d'aller progressivement vers des sujets où les choix comptent réellement : invariants métier, concurrence, transactions, idempotence, résilience, sécurité, tests, performances et architecture.
 
-### 🤖 Construire avec l'IA
-
-J'utilise aussi les modèles et agents IA comme de véritables outils d'ingénierie : exploration d'architectures, génération contrôlée, revue, automatisation, orchestration et expérimentation.
+### 🔬 Autres projets et expérimentations
 
 - **BrewTrack** — SaaS privé pour producteurs de boissons artisanales, autour de .NET, Angular et PostgreSQL.
 - **Mira** — plateforme auto-hébergée d'agents IA, de missions, d'outils et de supervision.
+- **[Mira Genesis](https://github.com/mjodheim/mira-genesis)** — programme public de recherche expérimentale sur des lignées logicielles adaptatives, avec protocoles, contrôles, expériences reproductibles et conservation des résultats positifs comme négatifs.
 
-Dans ces projets, l'intérêt n'est pas de prétendre que chaque ligne a été écrite manuellement, mais de travailler sur la **conception du système, les contraintes, l'intégration, la vérification et le comportement global**.
-
-### 🧪 Recherche et expérimentation
-
-**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** est un programme public de recherche expérimentale sur des lignées logicielles adaptatives, avec protocoles, contrôles, expériences reproductibles et conservation des résultats positifs comme négatifs.
-
-Ce projet me permet d'explorer des questions plus ouvertes autour de l'autonomie logicielle, de l'évaluation, de la causalité et de la place des agents IA dans l'ingénierie logicielle.
+Ces projets me permettent d'explorer l'automatisation, l'orchestration d'agents, l'évaluation et la place de l'IA dans l'ingénierie logicielle, tout en gardant une distinction claire entre expérimentation et logique applicative déterministe.
 
 ### Aujourd'hui
 
-- 🎓 Formation Full Stack chez **Technofutur TIC**, avec transition de l'écosystème .NET vers Java/Spring Boot.
-- 🧱 Intérêt particulier pour l'architecture, les API, les données et les systèmes distribués ou modulaires.
+- 🎓 Formation Full Stack chez **Technofutur TIC**, avec transition de l'écosystème .NET vers Java/Spring Boot et Angular.
+- 🧱 Travail actuel sur **Cellar**, puis **TechnoCovoit**, avant le projet final **Resilience**.
+- 🧩 Intérêt particulier pour l'architecture modulaire, les API, les données et les systèmes distribués ou intégrés.
 - 🧪 Progression sur les tests automatisés, Docker, CI/CD et les pratiques de production.
 - 🔐 Intérêt marqué pour la sécurité, les invariants métier et la fiabilité.
-- 🤖 Exploration continue de l'IA appliquée au développement et de l'orchestration d'agents.
+- 🤖 Exploration continue de l'IA appliquée au développement, du RAG, de MCP et de l'orchestration d'agents.
 - 🧠 Méthode : comprendre, construire, tester, observer, corriger et documenter.
 
 ---
@@ -62,38 +92,68 @@ I'm **Anthony**, a Full Stack developer in training. My journey started with **C
 
 I'm interested not only in writing code, but also in the problems surrounding it: **architecture, security, testing, data, automation, deployment, observability and how software behaves in production**.
 
-AI is naturally part of the way I explore and build. I use it for learning, review, prototyping, automation and engineering. Some repositories are deliberately focused on manual practice, while others explore what becomes possible when models and agents participate directly in the development process.
+### 🧭 Learning through progressively harder projects
+
+My training is structured around projects that deliberately increase in complexity: first learning how to build a backend properly, then connecting it to a frontend, and finally tackling more advanced data, AI and interoperability concerns.
+
+#### 🧱 [Cellar](https://github.com/mjodheim/Cellar)
+
+A cellar, inventory and ordering backend built with **Java, Spring Boot and Spring Modulith**.
+
+It is my main project for practising explicit business boundaries, modular architecture and Clean/hexagonal principles inside each module. The project also covers PostgreSQL, Flyway, Spring Security, JWT, unit and integration testing, Testcontainers, Docker and CI/CD practices.
+
+The goal is to build a backend that is **understandable, testable, traceable and evolvable**, rather than just another CRUD application.
+
+#### 🚗 TechnoCovoit
+
+My next training project: a carpooling application that will extend the backend work done in Cellar and then add a real **Angular frontend**.
+
+The objective is to work through the complete lifecycle of a feature, from domain and API design to the user interface, while maintaining clear responsibilities between backend and frontend.
+
+> The repository is initialized; implementation will be added progressively during the training.
+
+#### 🌍 [Resilience](https://github.com/mjodheim/Resilience)
+
+My graduation project and the next step in complexity.
+
+**Resilience** is planned as a full-stack climate-resilience platform combining **Spring Boot, Spring Modulith, Clean/hexagonal architecture per module, Angular, PostgreSQL/PostGIS** and external climate/environmental data sources.
+
+The business core will remain **deterministic and independent from AI**. Once the conventional application is stable, the project will add **RAG**, vector search with **PGVector**, and a dedicated **MCP server** exposing structured climate tools. The LLM will be used to orchestrate, contextualize and explain sourced results, never as the source of truth for business rules or data validation.
+
+The goal is to explore how modern applications can integrate AI without surrendering control over their core logic.
+
+### 🤖 Development and artificial intelligence
+
+AI is now part of my development environment and also a field I actively explore.
+
+I believe its influence on software engineering will keep accelerating. My approach is therefore not to ignore it, but to learn how to **evolve with these tools as quickly as possible**, understand both their capabilities and their limits, and integrate them when they provide real value.
+
+I use AI to learn, explore architectures, challenge design choices, automate selected tasks, prototype and experiment. The developer remains responsible for what is produced: **understanding, designing, testing, verifying, securing and maintaining** still matter.
 
 ### 🧑‍💻 Learning and practice
 
-**[Learning](https://github.com/mjodheim/Learning)** contains my training journey and exercises: algorithms, object-oriented programming, SQL, data access, REST APIs, JavaScript, Angular, Java and progressively Spring Boot, testing and Docker.
+**[Learning](https://github.com/mjodheim/Learning)** contains my training journey and exercises: algorithms, object-oriented programming, SQL, data access, REST APIs, JavaScript, Angular, Java, Spring Boot, testing and Docker.
 
 **[Developer Lab](https://github.com/mjodheim/Developer-lab)** is my personal practice space. I work through focused problems in several languages while writing the implementation myself, with AI limited to the role of tutor, reviewer or sparring partner.
 
 The goal is not to accumulate CRUD applications, but to progressively move towards problems where engineering decisions matter: business invariants, concurrency, transactions, idempotency, resilience, security, testing, performance and architecture.
 
-### 🤖 Building with AI
-
-I also use AI models and agents as engineering tools for architecture exploration, controlled generation, review, automation, orchestration and experimentation.
+### 🔬 Other projects and experiments
 
 - **BrewTrack** — private SaaS for craft beverage producers, built around .NET, Angular and PostgreSQL.
 - **Mira** — self-hosted platform for AI agents, missions, tools and infrastructure supervision.
+- **[Mira Genesis](https://github.com/mjodheim/mira-genesis)** — public experimental research program on adaptive software lineages, with protocols, controls, reproducible experiments and preserved positive and negative results.
 
-In these projects, the interesting part is not claiming that every line was written manually, but working on the **system design, constraints, integration, verification and overall behaviour**.
-
-### 🧪 Research and experimentation
-
-**[Mira Genesis](https://github.com/mjodheim/mira-genesis)** is a public experimental research program on adaptive software lineages, with protocols, controls, reproducible experiments and preserved positive and negative results.
-
-This project let me explore more open-ended questions around software autonomy, evaluation, causality and the role of AI agents in software engineering.
+These projects let me explore automation, agent orchestration, evaluation and the role of AI in software engineering while keeping a clear distinction between experimentation and deterministic application logic.
 
 ### Today
 
-- 🎓 Full Stack training at **Technofutur TIC**, transitioning from .NET to Java/Spring Boot.
-- 🧱 Strong interest in architecture, APIs, data and distributed or modular systems.
+- 🎓 Full Stack training at **Technofutur TIC**, moving from .NET towards Java/Spring Boot and Angular.
+- 🧱 Currently working on **Cellar**, followed by **TechnoCovoit**, before the graduation project **Resilience**.
+- 🧩 Strong interest in modular architecture, APIs, data and distributed or integrated systems.
 - 🧪 Progressing in automated testing, Docker, CI/CD and production practices.
 - 🔐 Strong interest in security, business invariants and reliability.
-- 🤖 Continuously exploring AI-assisted development and agent orchestration.
+- 🤖 Continuously exploring AI-assisted development, RAG, MCP and agent orchestration.
 - 🧠 Approach: understand, build, test, observe, fix and document.
 
 ## Outils & technologies · Tools & technologies
